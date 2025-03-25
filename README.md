@@ -1,4 +1,7 @@
+**Design and Implement a Scalable Office Network with VLANs for Enhanced Security and Performance**
+
 **Project Overview:**
+
 In this project, I was tasked with designing and implementing a scalable Ethernet LAN network with Virtual Local Area Networks (VLANs) to enhance network performance, security, and redundancy for an office building with multiple floors. The goal was to logically segment the network into two distinct VLANs—Network-A and Network-B—while ensuring inter-floor communication and high availability.
 
 **Key Responsibilities and Achievements:**
