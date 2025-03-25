@@ -24,8 +24,7 @@ Implemented a fault tolerance strategy by ensuring that if one of the switches f
 **Testing and Validation:**
 Conducted extensive testing to ensure that all PCs could successfully communicate within the same VLAN across different floors. Verified that the network was resilient, and PC communication persisted even during potential switch outages.
 
-**Technologies Used:
-**
+**Technologies Used:**
 Cisco Packet Tracer for network simulation and configuration.
 
 Cisco 2960 Series Switches for VLAN setup and inter-switch communication.
